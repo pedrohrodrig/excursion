@@ -20,9 +20,10 @@ h2 {
 .link {
     color: aquamarine;
     font-size: 16px;
+    text-decoration: underline;
 }
 
-.app_description, .copyright {
+.app-description, .copyright {
     color: gray;
     font-size: 21px;
 }
