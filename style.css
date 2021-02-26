@@ -1,0 +1,32 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+/* sections */
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.link {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.app_description, .copyright {
+    color: gray;
+    font-size: 21px;
+}
+
+.copyright {
+    text-align: right;
+}
